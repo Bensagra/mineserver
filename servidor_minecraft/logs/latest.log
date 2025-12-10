@@ -1,0 +1,33 @@
+[22:59:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:59:51] [ServerMain/INFO]: No existing world data, creating new world
+[22:59:51] [ServerMain/INFO]: Loaded 1407 recipes
+[22:59:51] [ServerMain/INFO]: Loaded 1520 advancements
+[22:59:52] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[22:59:52] [Server thread/INFO]: Loading properties
+[22:59:52] [Server thread/INFO]: Default game type: SURVIVAL
+[22:59:52] [Server thread/INFO]: Generating keypair
+[22:59:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:59:52] [Server thread/INFO]: Using epoll channel type
+[22:59:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:59:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:59:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:59:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:59:52] [Server thread/INFO]: Preparing level "world"
+[22:59:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:59:59] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[22:59:59] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[23:00:00] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[23:00:00] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[23:00:01] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[23:00:01] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[23:00:02] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[23:00:02] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[23:00:03] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[23:00:03] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[23:00:04] [Server thread/INFO]: Time elapsed: 4981 ms
+[23:00:04] [Server thread/INFO]: Done (11.985s)! For help, type "help"
+[23:00:30] [Server thread/INFO]: Bensagra[/127.147.136.47:50509] logged in with entity id 5 at (-24.5, 67.0, -32.5)
+[23:00:30] [Server thread/INFO]: Bensagra joined the game
+[23:00:42] [Server thread/INFO]: Bensagra lost connection: Disconnected
+[23:00:42] [Server thread/INFO]: Bensagra left the game
+[23:01:42] [Server thread/INFO]: Server empty for 60 seconds, pausing
